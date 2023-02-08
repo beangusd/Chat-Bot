@@ -1,5 +1,5 @@
 import socket
-host = "192.168.1.4"
+host = "shhh"
 port = 12423
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
